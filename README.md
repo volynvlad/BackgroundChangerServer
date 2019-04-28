@@ -12,3 +12,5 @@ chmod +x setup.sh
 
 ## Running the server
 python run.py
+## Be careful to set your own host, post and path
+In run.py, remove.py and in the app https://github.com/volynvlad/BackgroundChanger/blob/master/BackgroundChanger/app/src/main/java/com/example/backgroundchanger/activity/ProcessActivity.java
