@@ -1,5 +1,5 @@
-# This is the server for mobile app changer
-https://github.com/volynvlad/changer
+# This is the server for mobile app BackgroundChanger
+https://github.com/volynvlad/BackgroundChanger
 ## Setup
 The scipt setup.sh install microframework for Python flask 
 http://flask.pocoo.org/
