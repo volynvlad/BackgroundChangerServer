@@ -2,8 +2,10 @@
 python3 -m venv venv
 pip install Flask
 
-mkdir pictures/received
-mkdir pictures/send
+mkdir pictures && cd pictures
+mkdir send
+mkdir received
+cd ..
 
 touch __init__.py
 mkdir background_remover
